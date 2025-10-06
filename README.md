@@ -1,16 +1,22 @@
-## Hi there 👋
+# From America LLC 🇺🇸
 
-<!--
-**from-america/from-america** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software that's literally from America.**  
+Building thoughtful mobile and web experiences with care and simplicity.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Apps
+- [**SplitHound**](https://ericspencer00.github.io/splithound-web/) — A modern expense tracker that makes splitting bills effortless.
+
+---
+
+### Founder
+**Eric Spencer**  
+Founder & Developer  
+[ericspencer00.github.io](https://ericspencer00.github.io)
+
+---
+
+Based in the United States  
+🌐 [from-america.github.io](https://from-america.github.io)  
+📧 [ericspencer1450@gmail.com](mailto:ericspencer1450@gmail.com)
